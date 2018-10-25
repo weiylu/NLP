@@ -2,8 +2,8 @@
 
 
 ## 工具使用
-https://linuxtools-rst.readthedocs.io/zh_CN/latest/    Linux使用指南 <br>
-https://louiszhai.github.io/2017/09/30/tmux/     tmux使用指南 <br>
+https://linuxtools-rst.readthedocs.io/zh_CN/latest/ 　　Linux使用指南 <br>
+https://louiszhai.github.io/2017/09/30/tmux/ 　　tmux使用指南 <br>
 https://www.zybuluo.com/mdeditor   作业部落编辑器  <br>
 http://markdownpad.com/     markdownpad编辑器  <br>
 https://liam0205.me/2014/09/08/latex-introduction/   LaTeX基础教程  <br>
@@ -27,7 +27,7 @@ https://github.com/dav/word2vec
 https://github.com/google/seq2seq
 
 ## 其他拓展
-* seq2seq模型生成文本摘要：
+* seq2seq模型生成文本摘要： <br>
 https://www.cnblogs.com/Determined22/p/6650373.html
 https://cloud.tencent.com/developer/article/1151740
 
