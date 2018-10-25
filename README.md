@@ -4,14 +4,14 @@
 ## 工具使用
 https://linuxtools-rst.readthedocs.io/zh_CN/latest/ 　　Linux使用指南 <br>
 https://louiszhai.github.io/2017/09/30/tmux/ 　　tmux使用指南 <br>
-https://www.zybuluo.com/mdeditor   作业部落编辑器  <br>
-http://markdownpad.com/     markdownpad编辑器  <br>
-https://liam0205.me/2014/09/08/latex-introduction/   LaTeX基础教程  <br>
-https://github.com/younghz/Markdown   markdown基础教程  <br>
+https://www.zybuluo.com/mdeditor 　　作业部落编辑器  <br>
+http://markdownpad.com/ 　　markdownpad编辑器  <br>
+https://liam0205.me/2014/09/08/latex-introduction/ 　　LaTeX基础教程  <br>
+https://github.com/younghz/Markdown 　　markdown基础教程  <br>
 
 ## 个人博客
-https://www.jianshu.com/p/a39573555039    hexo+GitHub搭建个人博客  <br>
-http://jeffyang.top/Hexo/Hexo%E4%B8%BB%E9%A2%98Next%E7%BE%8E%E5%8C%96/   个人博客美化 
+https://www.jianshu.com/p/a39573555039 　　hexo+GitHub搭建个人博客  <br>
+http://jeffyang.top/Hexo/Hexo%E4%B8%BB%E9%A2%98Next%E7%BE%8E%E5%8C%96/ 　　个人博客美化 
 
 ## 论文
 ### word2vec, glove, seq2seq
@@ -28,8 +28,8 @@ https://github.com/google/seq2seq
 
 ## 其他拓展
 * seq2seq模型生成文本摘要： <br>
-https://www.cnblogs.com/Determined22/p/6650373.html
+https://www.cnblogs.com/Determined22/p/6650373.html  <br>
 https://cloud.tencent.com/developer/article/1151740
 
-* TensorFlow实现文本摘要功能：
+* TensorFlow实现文本摘要功能： <br>
 https://github.com/dongjun-Lee/text-summarization-tensorflow
