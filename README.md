@@ -2,16 +2,16 @@
 
 
 ## 工具使用
-https://linuxtools-rst.readthedocs.io/zh_CN/latest/ 　　Linux使用指南 <br>
-https://louiszhai.github.io/2017/09/30/tmux/ 　　tmux使用指南 <br>
-https://www.zybuluo.com/mdeditor 　　作业部落编辑器  <br>
-http://markdownpad.com/ 　　markdownpad编辑器  <br>
-https://liam0205.me/2014/09/08/latex-introduction/ 　　LaTeX基础教程  <br>
-https://github.com/younghz/Markdown 　　markdown基础教程  <br>
+Linux使用指南：https://linuxtools-rst.readthedocs.io/zh_CN/latest/ 　　 <br>
+tmux使用指南：https://louiszhai.github.io/2017/09/30/tmux/ 　　 <br>
+作业部落编辑器：https://www.zybuluo.com/mdeditor 　　  <br>
+Markdownpad编辑器：http://markdownpad.com/ 　　  <br>
+LaTeX基础教程：https://liam0205.me/2014/09/08/latex-introduction/ 　　  <br>
+markdown基础教程：https://github.com/younghz/Markdown 　　  <br>
 
 ## 个人博客
-https://www.jianshu.com/p/a39573555039 　　hexo+GitHub搭建个人博客  <br>
-http://jeffyang.top/Hexo/Hexo%E4%B8%BB%E9%A2%98Next%E7%BE%8E%E5%8C%96/ 　　个人博客美化 
+hexo+GitHub搭建个人博客：https://www.jianshu.com/p/a39573555039 　　  <br>
+个人博客美化http://jeffyang.top/Hexo/Hexo%E4%B8%BB%E9%A2%98Next%E7%BE%8E%E5%8C%96/ 　　 
 
 ## 论文
 ### word2vec, glove, seq2seq
